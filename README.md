@@ -1,3 +1,2 @@
-よろしくお願いします。
-
-ポートフォリオ作成中。。。
+Horie Ryusei'S Portfolio
+thank you for browsing
