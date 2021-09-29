@@ -78,6 +78,9 @@ section{
     font-size: 40px;
     width:250px;
 }
+.main-tag-top{
+    text-align: left;
+}
 .profile-main-icon{
     background-image:url(../images/アイコン①.png);
     background-repeat: no-repeat;
@@ -118,6 +121,11 @@ section{
 }
 .main-contents-top{
     text-align: center;
+    font-size: 25px;
+}
+.video{
+    width:300px;
+    height: 200px;
 }
 footer{
     background-color: chocolate;
