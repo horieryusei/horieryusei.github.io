@@ -1,8 +1,6 @@
 thank you for browsing.
 
-Horie Ryusei'S Portfolio creating now.
-
-https://horieryusei.github.io/
+Horie Ryusei'S Portfolio creating now.→https://horieryusei.github.io/
 
 ・ポートフォリオサイト→index.html
 
