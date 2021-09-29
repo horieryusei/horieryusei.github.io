@@ -4,9 +4,9 @@ Horie Ryusei'S Portfolio creating now.→https://horieryusei.github.io/
 
 ・ポートフォリオサイト→index.html
 
-・料理サイト→recipe site
+・料理サイトコード→recipe siteフォルダ
 
-・ECサイト→ec site
+・ECサイトコード→ec siteフォルダ
 
-・掲示板→bbs site
+・掲示板コード→bbs siteフォルダ
 
